@@ -1,0 +1,122 @@
+/* Color Theme Swatches in Hex */
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+}
+
+body {
+  font-family: "DynaPuff", cursive !important;
+  background-color: #f6f6f6;
+}
+
+.Navbar {
+  position: relative;
+}
+
+.btn-search {
+  background-color: #f0941f;
+  border: 2px solid #ef6024;
+  padding: 5px;
+  border-radius: 5px;
+  color: #f6f6f6;
+}
+.btn-search:hover {
+  border: 2px solid #ef6024;
+  color: #f0941f;
+  background-color: #f6f6f6;
+}
+
+.landing {
+  position: relative;
+  min-height: 100vh;
+  background-image: url(../images/image3.jpg);
+  background-size: cover;
+  color: rgba(21, 21, 21, 0.785);
+  -webkit-transform: translateY(50% 0);
+          transform: translateY(50% 0);
+}
+.landing .overate {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+.landing .text {
+  position: absolute;
+  right: 5%;
+  top: 50%;
+  -webkit-transform: translate(0, -50%);
+          transform: translate(0, -50%);
+  padding: 20px;
+  margin: 20px;
+}
+.landing .text P {
+  color: #ef6024;
+  font-size: 5rem;
+  margin-left: 20px;
+  margin-bottom: none;
+}
+.landing .text h3 {
+  color: #f6f6f6;
+  font-size: 5rem;
+  font-weight: 600;
+}
+
+@media (max-width: 800px) {
+  .text {
+    right: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+  }
+  .text P {
+    font-size: 3rem;
+  }
+  .text h3 {
+    font-size: 3rem;
+  }
+}
+.menu {
+  position: relative;
+}
+.menu::before {
+  content: "";
+  position: absolute;
+  width: 200px;
+  height: 4px;
+  background-color: #ef6024;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  bottom: 0;
+}
+.menu h3 {
+  color: #f0941f;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.btn-cat {
+  padding: 10px;
+  color: #f6f6f6;
+  border: 3px solid #f0941f;
+  margin: 0 10px;
+  border-radius: 5px;
+  background-color: #ef6024;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+.btn-cat:is(:hover) {
+  scale: 1.15;
+  color: #f0941f;
+  background-color: #f6f6f6;
+}
+
+.cardImage {
+  width: 250px;
+  height: 200px;
+}
+/*# sourceMappingURL=main.css.map */
