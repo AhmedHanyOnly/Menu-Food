@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Menu-Food/static/css/main.1df47750.css",
+    "main.js": "/Menu-Food/static/js/main.92367d23.js",
+    "static/media/img5.jpg": "/Menu-Food/static/media/img5.1b08c4cf9243f217016e.jpg",
+    "static/media/img3.jpg": "/Menu-Food/static/media/img3.973291ea9212418c8c15.jpg",
+    "static/media/image3.jpg": "/Menu-Food/static/media/image3.a1f8220b6a65aebe2e45.jpg",
+    "static/media/img2.jpg": "/Menu-Food/static/media/img2.55171ae40ffaf994208d.jpg",
+    "static/media/img1.jpg": "/Menu-Food/static/media/img1.cc7f26755c43fb27c7db.jpg",
+    "static/media/img8.jpg": "/Menu-Food/static/media/img8.33e3ab7e9e6ccd157337.jpg",
+    "static/media/img9.jpg": "/Menu-Food/static/media/img9.366d7b076af0abc602c8.jpg",
+    "static/media/img4.jpg": "/Menu-Food/static/media/img4.eca2b44f869655235afc.jpg",
+    "static/media/img6.jpg": "/Menu-Food/static/media/img6.06df042d173b9fc1fa02.jpg",
+    "static/media/img7.jpg": "/Menu-Food/static/media/img7.90041170303ca3bc5301.jpg",
+    "static/media/img10.jpg": "/Menu-Food/static/media/img10.c3d8e5353d1975213eb0.jpg",
+    "index.html": "/Menu-Food/index.html",
+    "main.1df47750.css.map": "/Menu-Food/static/css/main.1df47750.css.map",
+    "main.92367d23.js.map": "/Menu-Food/static/js/main.92367d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df47750.css",
+    "static/js/main.92367d23.js"
+  ]
+}
